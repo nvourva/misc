@@ -3,5 +3,7 @@ This function can be attached to `the_post_thumbnail()` to provide custom srcset
 
 ### Useful reading
 [Responsive images in WordPress 4.4](https://make.wordpress.org/core/2015/11/10/responsive-images-in-wordpress-4-4/)
+
 [Responsive images in practice](https://alistapart.com/article/responsive-images-in-practice/)
+
 [Responsive images and how to implement them in WordPress](https://www.malthemilthers.com/responsive-images-and-how-to-implement-them-in-wordpress/)
